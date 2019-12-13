@@ -1,7 +1,7 @@
-(['C:\\Users\\John '
-  'Trites\\Desktop\\WinLinkMon_1.0\\WinLinkMon_EXEC_12-12-19.py'],
- ['C:\\Users\\John Trites\\Desktop\\WinLinkMon_1.0',
-  'C:\\Users\\John Trites\\Desktop\\WinLinkMon_1.0'],
+(['C:\\Users\\John Trites\\Documents\\Python '
+  'Projects\\WinLinkMon_1.1\\WinLinkMon_EXEC_12-13-19.py'],
+ ['C:\\Users\\John Trites\\Documents\\Python Projects\\WinLinkMon_1.1',
+  'C:\\Users\\John Trites\\Documents\\Python Projects\\WinLinkMon_1.1'],
  ['codecs'],
  [],
  [],
@@ -18,9 +18,9 @@
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_pyqt5.py',
    'PYSOURCE'),
-  ('WinLinkMon_EXEC_12-12-19',
-   'C:\\Users\\John '
-   'Trites\\Desktop\\WinLinkMon_1.0\\WinLinkMon_EXEC_12-12-19.py',
+  ('WinLinkMon_EXEC_12-13-19',
+   'C:\\Users\\John Trites\\Documents\\Python '
+   'Projects\\WinLinkMon_1.1\\WinLinkMon_EXEC_12-13-19.py',
    'PYSOURCE')],
  [('multiprocessing.popen_fork',
    'c:\\users\\john '
@@ -146,13 +146,17 @@
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\datetime.py',
    'PYMODULE'),
-  ('typing',
-   'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\typing.py',
-   'PYMODULE'),
   ('_py_abc',
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\typing.py',
    'PYMODULE'),
   ('fnmatch',
    'c:\\users\\john '
@@ -574,6 +578,10 @@
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\uu.py',
    'PYMODULE'),
+  ('quopri',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\quopri.py',
+   'PYMODULE'),
   ('email.feedparser',
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\feedparser.py',
@@ -621,6 +629,10 @@
   ('email.charset',
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\base64.py',
    'PYMODULE'),
   ('email._encoded_words',
    'c:\\users\\john '
@@ -674,9 +686,17 @@
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\message.py',
    'PYMODULE'),
+  ('bz2',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\bz2.py',
+   'PYMODULE'),
   ('lzma',
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\_compression.py',
    'PYMODULE'),
   ('gzip',
    'c:\\users\\john '
@@ -709,6 +729,10 @@
   ('pydoc',
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\getopt.py',
    'PYMODULE'),
   ('pdb',
    'c:\\users\\john '
@@ -758,34 +782,6 @@
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\doctest.py',
    'PYMODULE'),
-  ('textwrap',
-   'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\textwrap.py',
-   'PYMODULE'),
-  ('argparse',
-   'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\argparse.py',
-   'PYMODULE'),
-  ('pickle',
-   'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\pickle.py',
-   'PYMODULE'),
-  ('tracemalloc',
-   'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\tracemalloc.py',
-   'PYMODULE'),
-  ('base64',
-   'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\base64.py',
-   'PYMODULE'),
-  ('_compression',
-   'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\_compression.py',
-   'PYMODULE'),
-  ('bz2',
-   'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\bz2.py',
-   'PYMODULE'),
   ('stat',
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\stat.py',
@@ -818,25 +814,29 @@
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\selectors.py',
    'PYMODULE'),
-  ('copy',
-   'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\copy.py',
-   'PYMODULE'),
   ('gettext',
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\gettext.py',
    'PYMODULE'),
-  ('getopt',
+  ('textwrap',
    'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\getopt.py',
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\textwrap.py',
    'PYMODULE'),
-  ('quopri',
+  ('argparse',
    'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\quopri.py',
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\argparse.py',
    'PYMODULE'),
-  ('stringprep',
+  ('pickle',
    'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\stringprep.py',
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\pickle.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\copy.py',
    'PYMODULE'),
   ('pprint',
    'c:\\users\\john '
@@ -927,17 +927,20 @@
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\__init__.py',
    'PYMODULE'),
   ('WinLinkMon_Docs',
-   'C:\\Users\\John Trites\\Desktop\\WinLinkMon_1.0\\WinLinkMon_Docs.py',
+   'C:\\Users\\John Trites\\Documents\\Python '
+   'Projects\\WinLinkMon_1.1\\WinLinkMon_Docs.py',
    'PYMODULE'),
   ('WinLinkMon_About',
-   'C:\\Users\\John Trites\\Desktop\\WinLinkMon_1.0\\WinLinkMon_About.py',
+   'C:\\Users\\John Trites\\Documents\\Python '
+   'Projects\\WinLinkMon_1.1\\WinLinkMon_About.py',
    'PYMODULE'),
   ('WinLinkMon_GUI_12_12_19',
-   'C:\\Users\\John '
-   'Trites\\Desktop\\WinLinkMon_1.0\\WinLinkMon_GUI_12_12_19.py',
+   'C:\\Users\\John Trites\\Documents\\Python '
+   'Projects\\WinLinkMon_1.1\\WinLinkMon_GUI_12_12_19.py',
    'PYMODULE'),
   ('icons_rc',
-   'C:\\Users\\John Trites\\Desktop\\WinLinkMon_1.0\\icons_rc.py',
+   'C:\\Users\\John Trites\\Documents\\Python '
+   'Projects\\WinLinkMon_1.1\\icons_rc.py',
    'PYMODULE'),
   ('struct',
    'c:\\users\\john '
@@ -947,45 +950,45 @@
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\os.py',
    'PYMODULE')],
- [('python37.dll',
-   'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\python37.dll',
-   'BINARY'),
-  ('VCRUNTIME140.dll',
+ [('VCRUNTIME140.dll',
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\VCRUNTIME140.dll',
    'BINARY'),
-  ('PyQt5\\Qt\\plugins\\platforms\\qwebgl.dll',
-   'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms\\qwebgl.dll',
+  ('python37.dll',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\python37.dll',
    'BINARY'),
-  ('PyQt5\\Qt\\plugins\\platformthemes\\qflatpak.dll',
+  ('PyQt5\\Qt\\plugins\\imageformats\\qjpeg.dll',
    'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platformthemes\\qflatpak.dll',
-   'BINARY'),
-  ('PyQt5\\Qt\\plugins\\styles\\qwindowsvistastyle.dll',
-   'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\styles\\qwindowsvistastyle.dll',
-   'BINARY'),
-  ('PyQt5\\Qt\\plugins\\imageformats\\qwbmp.dll',
-   'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qwbmp.dll',
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qjpeg.dll',
    'BINARY'),
   ('PyQt5\\Qt\\plugins\\imageformats\\qsvg.dll',
    'C:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qsvg.dll',
    'BINARY'),
-  ('PyQt5\\Qt\\bin\\libGLESv2.dll',
+  ('PyQt5\\Qt\\plugins\\printsupport\\windowsprintersupport.dll',
    'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\libGLESv2.dll',
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\printsupport\\windowsprintersupport.dll',
    'BINARY'),
   ('PyQt5\\Qt\\plugins\\imageformats\\qicns.dll',
    'C:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qicns.dll',
    'BINARY'),
-  ('PyQt5\\Qt\\plugins\\imageformats\\qico.dll',
+  ('PyQt5\\Qt\\plugins\\imageformats\\qwbmp.dll',
    'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qico.dll',
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qwebp.dll',
+   'C:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\bin\\opengl32sw.dll',
+   'C:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\opengl32sw.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qgif.dll',
+   'C:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qgif.dll',
    'BINARY'),
   ('PyQt5\\Qt\\bin\\d3dcompiler_47.dll',
    'C:\\users\\john '
@@ -999,25 +1002,13 @@
    'C:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qtga.dll',
    'BINARY'),
-  ('PyQt5\\Qt\\plugins\\platforms\\qwindows.dll',
+  ('PyQt5\\Qt\\plugins\\platforms\\qwebgl.dll',
    'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms\\qwindows.dll',
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms\\qwebgl.dll',
    'BINARY'),
-  ('PyQt5\\Qt\\plugins\\iconengines\\qsvgicon.dll',
+  ('PyQt5\\Qt\\plugins\\platforms\\qminimal.dll',
    'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\iconengines\\qsvgicon.dll',
-   'BINARY'),
-  ('PyQt5\\Qt\\plugins\\imageformats\\qjpeg.dll',
-   'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qjpeg.dll',
-   'BINARY'),
-  ('PyQt5\\Qt\\plugins\\imageformats\\qwebp.dll',
-   'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qwebp.dll',
-   'BINARY'),
-  ('PyQt5\\Qt\\bin\\opengl32sw.dll',
-   'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\opengl32sw.dll',
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms\\qminimal.dll',
    'BINARY'),
   ('PyQt5\\Qt\\plugins\\imageformats\\qtiff.dll',
    'C:\\users\\john '
@@ -1027,17 +1018,29 @@
    'C:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\libEGL.dll',
    'BINARY'),
-  ('PyQt5\\Qt\\plugins\\platforms\\qminimal.dll',
+  ('PyQt5\\Qt\\bin\\libGLESv2.dll',
    'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms\\qminimal.dll',
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\libGLESv2.dll',
    'BINARY'),
-  ('PyQt5\\Qt\\plugins\\printsupport\\windowsprintersupport.dll',
+  ('PyQt5\\Qt\\plugins\\platforms\\qwindows.dll',
    'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\printsupport\\windowsprintersupport.dll',
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platforms\\qwindows.dll',
    'BINARY'),
-  ('PyQt5\\Qt\\plugins\\imageformats\\qgif.dll',
+  ('PyQt5\\Qt\\plugins\\styles\\qwindowsvistastyle.dll',
    'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qgif.dll',
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\styles\\qwindowsvistastyle.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\iconengines\\qsvgicon.dll',
+   'C:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\imageformats\\qico.dll',
+   'C:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('PyQt5\\Qt\\plugins\\platformthemes\\qflatpak.dll',
+   'C:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\plugins\\platformthemes\\qflatpak.dll',
    'BINARY'),
   ('_decimal',
    'c:\\users\\john '
@@ -1071,9 +1074,17 @@
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\DLLs\\pyexpat.pyd',
    'EXTENSION'),
+  ('unicodedata',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
   ('_hashlib',
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\DLLs\\_bz2.pyd',
    'EXTENSION'),
   ('_lzma',
    'c:\\users\\john '
@@ -1083,17 +1094,9 @@
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\DLLs\\_socket.pyd',
    'EXTENSION'),
-  ('_bz2',
-   'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\DLLs\\_bz2.pyd',
-   'EXTENSION'),
   ('select',
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\DLLs\\select.pyd',
-   'EXTENSION'),
-  ('unicodedata',
-   'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\DLLs\\unicodedata.pyd',
    'EXTENSION'),
   ('PyQt5.QtPrintSupport',
    'c:\\users\\john '
@@ -1123,9 +1126,17 @@
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\qt5gui.dll',
    'BINARY'),
-  ('Qt5Network.dll',
+  ('Qt5Core.dll',
    'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\qt5network.dll',
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\qt5core.dll',
+   'BINARY'),
+  ('Qt5Svg.dll',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\qt5svg.dll',
+   'BINARY'),
+  ('Qt5PrintSupport.dll',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\qt5printsupport.dll',
    'BINARY'),
   ('Qt5Quick.dll',
    'c:\\users\\john '
@@ -1135,33 +1146,25 @@
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\qt5websockets.dll',
    'BINARY'),
-  ('Qt5Core.dll',
+  ('Qt5Network.dll',
    'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\qt5core.dll',
-   'BINARY'),
-  ('Qt5DBus.dll',
-   'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\qt5dbus.dll',
-   'BINARY'),
-  ('Qt5Widgets.dll',
-   'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\qt5widgets.dll',
-   'BINARY'),
-  ('Qt5Svg.dll',
-   'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\qt5svg.dll',
-   'BINARY'),
-  ('MSVCP140.dll',
-   'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\MSVCP140.dll',
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\qt5network.dll',
    'BINARY'),
   ('libGLESv2.dll',
    'C:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\libGLESv2.dll',
    'BINARY'),
-  ('Qt5PrintSupport.dll',
+  ('MSVCP140.dll',
+   'C:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\MSVCP140.dll',
+   'BINARY'),
+  ('Qt5Widgets.dll',
    'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\qt5printsupport.dll',
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\qt5widgets.dll',
+   'BINARY'),
+  ('Qt5DBus.dll',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\qt5dbus.dll',
    'BINARY'),
   ('libcrypto-1_1.dll',
    'c:\\users\\john '
@@ -1186,12 +1189,52 @@
  [],
  [],
  [('base_library.zip',
-   'C:\\Users\\John '
-   'Trites\\Desktop\\WinLinkMon_1.0\\build\\WinLinkMon\\base_library.zip',
+   'C:\\Users\\John Trites\\Documents\\Python '
+   'Projects\\WinLinkMon_1.1\\build\\WinLinkMon\\base_library.zip',
    'DATA'),
   ('PyQt5\\translations\\qtbase_sk.qm',
    'C:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_uk.qm',
+   'C:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_bg.qm',
+   'C:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_gd.qm',
+   'C:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_ja.qm',
+   'C:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_en.qm',
+   'C:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_es.qm',
+   'C:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_hu.qm',
+   'C:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_hu.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_de.qm',
+   'C:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_ar.qm',
+   'C:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ar.qm',
+   'DATA'),
+  ('PyQt5\\translations\\qtbase_he.qm',
+   'C:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_he.qm',
    'DATA'),
   ('PyQt5\\translations\\qtbase_pl.qm',
    'C:\\users\\john '
@@ -1201,49 +1244,25 @@
    'C:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_fi.qm',
    'DATA'),
-  ('PyQt5\\translations\\qtbase_lv.qm',
+  ('PyQt5\\translations\\qtbase_cs.qm',
    'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_lv.qm',
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_cs.qm',
    'DATA'),
   ('PyQt5\\translations\\qtbase_ru.qm',
    'C:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ru.qm',
    'DATA'),
-  ('PyQt5\\translations\\qtbase_en.qm',
-   'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_en.qm',
-   'DATA'),
-  ('PyQt5\\translations\\qtbase_ar.qm',
-   'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ar.qm',
-   'DATA'),
-  ('PyQt5\\translations\\qtbase_ko.qm',
-   'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ko.qm',
-   'DATA'),
-  ('PyQt5\\translations\\qtbase_bg.qm',
-   'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_bg.qm',
-   'DATA'),
-  ('PyQt5\\translations\\qtbase_ja.qm',
-   'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ja.qm',
-   'DATA'),
-  ('PyQt5\\translations\\qtbase_he.qm',
-   'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_he.qm',
-   'DATA'),
   ('PyQt5\\translations\\qtbase_ca.qm',
    'C:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ca.qm',
    'DATA'),
-  ('PyQt5\\translations\\qtbase_cs.qm',
+  ('PyQt5\\translations\\qtbase_lv.qm',
    'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_cs.qm',
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_lv.qm',
    'DATA'),
-  ('PyQt5\\translations\\qtbase_hu.qm',
+  ('PyQt5\\translations\\qtbase_it.qm',
    'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_hu.qm',
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_it.qm',
    'DATA'),
   ('PyQt5\\translations\\qtbase_da.qm',
    'C:\\users\\john '
@@ -1253,24 +1272,8 @@
    'C:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_fr.qm',
    'DATA'),
-  ('PyQt5\\translations\\qtbase_de.qm',
+  ('PyQt5\\translations\\qtbase_ko.qm',
    'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_de.qm',
-   'DATA'),
-  ('PyQt5\\translations\\qtbase_es.qm',
-   'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_es.qm',
-   'DATA'),
-  ('PyQt5\\translations\\qtbase_gd.qm',
-   'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_gd.qm',
-   'DATA'),
-  ('PyQt5\\translations\\qtbase_it.qm',
-   'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_it.qm',
-   'DATA'),
-  ('PyQt5\\translations\\qtbase_uk.qm',
-   'C:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_uk.qm',
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\translations\\qtbase_ko.qm',
    'DATA')],
  [])

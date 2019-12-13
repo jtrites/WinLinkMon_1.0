@@ -3,8 +3,8 @@
 block_cipher = None
 
 
-a = Analysis(['C:\\Users\\John Trites\\Desktop\\WinLinkMon_1.0\\WinLinkMon_EXEC_12-12-19.py'],
-             pathex=['C:\\Users\\John Trites\\Desktop\\WinLinkMon_1.0'],
+a = Analysis(['C:\\Users\\John Trites\\Documents\\Python Projects\\WinLinkMon_1.1\\WinLinkMon_EXEC_12-13-19.py'],
+             pathex=['C:\\Users\\John Trites\\Documents\\Python Projects\\WinLinkMon_1.1'],
              binaries=[],
              datas=[],
              hiddenimports=[],

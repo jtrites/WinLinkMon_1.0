@@ -1,5 +1,5 @@
-('C:\\Users\\John '
- 'Trites\\Desktop\\WinLinkMon_1.0\\build\\WinLinkMon\\PYZ-00.pyz',
+('C:\\Users\\John Trites\\Documents\\Python '
+ 'Projects\\WinLinkMon_1.1\\build\\WinLinkMon\\PYZ-00.pyz',
  [('multiprocessing.popen_fork',
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\multiprocessing\\popen_fork.py',
@@ -124,13 +124,17 @@
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\datetime.py',
    'PYMODULE'),
-  ('typing',
-   'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\typing.py',
-   'PYMODULE'),
   ('_py_abc',
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\typing.py',
    'PYMODULE'),
   ('fnmatch',
    'c:\\users\\john '
@@ -552,6 +556,10 @@
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\uu.py',
    'PYMODULE'),
+  ('quopri',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\quopri.py',
+   'PYMODULE'),
   ('email.feedparser',
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\feedparser.py',
@@ -599,6 +607,10 @@
   ('email.charset',
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\base64.py',
    'PYMODULE'),
   ('email._encoded_words',
    'c:\\users\\john '
@@ -652,9 +664,17 @@
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\message.py',
    'PYMODULE'),
+  ('bz2',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\bz2.py',
+   'PYMODULE'),
   ('lzma',
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\_compression.py',
    'PYMODULE'),
   ('gzip',
    'c:\\users\\john '
@@ -687,6 +707,10 @@
   ('pydoc',
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\getopt.py',
    'PYMODULE'),
   ('pdb',
    'c:\\users\\john '
@@ -736,34 +760,6 @@
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\doctest.py',
    'PYMODULE'),
-  ('textwrap',
-   'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\textwrap.py',
-   'PYMODULE'),
-  ('argparse',
-   'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\argparse.py',
-   'PYMODULE'),
-  ('pickle',
-   'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\pickle.py',
-   'PYMODULE'),
-  ('tracemalloc',
-   'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\tracemalloc.py',
-   'PYMODULE'),
-  ('base64',
-   'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\base64.py',
-   'PYMODULE'),
-  ('_compression',
-   'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\_compression.py',
-   'PYMODULE'),
-  ('bz2',
-   'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\bz2.py',
-   'PYMODULE'),
   ('stat',
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\stat.py',
@@ -796,25 +792,29 @@
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\selectors.py',
    'PYMODULE'),
-  ('copy',
-   'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\copy.py',
-   'PYMODULE'),
   ('gettext',
    'c:\\users\\john '
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\gettext.py',
    'PYMODULE'),
-  ('getopt',
+  ('textwrap',
    'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\getopt.py',
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\textwrap.py',
    'PYMODULE'),
-  ('quopri',
+  ('argparse',
    'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\quopri.py',
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\argparse.py',
    'PYMODULE'),
-  ('stringprep',
+  ('pickle',
    'c:\\users\\john '
-   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\stringprep.py',
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\pickle.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\copy.py',
    'PYMODULE'),
   ('pprint',
    'c:\\users\\john '
@@ -905,17 +905,20 @@
    'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\__init__.py',
    'PYMODULE'),
   ('WinLinkMon_Docs',
-   'C:\\Users\\John Trites\\Desktop\\WinLinkMon_1.0\\WinLinkMon_Docs.py',
+   'C:\\Users\\John Trites\\Documents\\Python '
+   'Projects\\WinLinkMon_1.1\\WinLinkMon_Docs.py',
    'PYMODULE'),
   ('WinLinkMon_About',
-   'C:\\Users\\John Trites\\Desktop\\WinLinkMon_1.0\\WinLinkMon_About.py',
+   'C:\\Users\\John Trites\\Documents\\Python '
+   'Projects\\WinLinkMon_1.1\\WinLinkMon_About.py',
    'PYMODULE'),
   ('WinLinkMon_GUI_12_12_19',
-   'C:\\Users\\John '
-   'Trites\\Desktop\\WinLinkMon_1.0\\WinLinkMon_GUI_12_12_19.py',
+   'C:\\Users\\John Trites\\Documents\\Python '
+   'Projects\\WinLinkMon_1.1\\WinLinkMon_GUI_12_12_19.py',
    'PYMODULE'),
   ('icons_rc',
-   'C:\\Users\\John Trites\\Desktop\\WinLinkMon_1.0\\icons_rc.py',
+   'C:\\Users\\John Trites\\Documents\\Python '
+   'Projects\\WinLinkMon_1.1\\icons_rc.py',
    'PYMODULE'),
   ('struct',
    'c:\\users\\john '
