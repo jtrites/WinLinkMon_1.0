@@ -1,0 +1,10 @@
+MID: UURYXHAQS2AF
+Date: 2019/08/21 17:31
+From: NF4AC
+To: SMTP:gallupleland@gmail.com
+To: KX4Z
+Subject: //WL2K Test 40m PACTOR send from EOC
+Mbo: NF4AC
+Body: 67
+
+this is a test send from the EOC by Pactor at 13:30 pm on 40meters.

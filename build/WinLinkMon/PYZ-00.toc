@@ -1,0 +1,927 @@
+('C:\\Users\\John '
+ 'Trites\\Desktop\\WinLinkMon_1.0\\build\\WinLinkMon\\PYZ-00.pyz',
+ [('multiprocessing.popen_fork',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\numbers.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.semaphore_tracker',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\multiprocessing\\semaphore_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\datetime.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\typing.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\__future__.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\difflib.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\ast.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\inspect.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\cmd.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\bdb.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\opcode.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\dis.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\codeop.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\code.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\glob.py',
+   'PYMODULE'),
+  ('pyreadline.rlmain',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\rlmain.py',
+   'PYMODULE'),
+  ('pyreadline.clipboard.ironpython_clipboard',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\clipboard\\ironpython_clipboard.py',
+   'PYMODULE'),
+  ('pyreadline.clipboard.no_clipboard',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\clipboard\\no_clipboard.py',
+   'PYMODULE'),
+  ('pyreadline.clipboard.win32_clipboard',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\clipboard\\win32_clipboard.py',
+   'PYMODULE'),
+  ('pyreadline.clipboard',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\clipboard\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline.lineeditor',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\lineeditor\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline.error',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\error.py',
+   'PYMODULE'),
+  ('pyreadline.modes.basemode',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\modes\\basemode.py',
+   'PYMODULE'),
+  ('pyreadline.modes.emacs',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\modes\\emacs.py',
+   'PYMODULE'),
+  ('pyreadline.modes.notemacs',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\modes\\notemacs.py',
+   'PYMODULE'),
+  ('pyreadline.lineeditor.wordmatcher',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\lineeditor\\wordmatcher.py',
+   'PYMODULE'),
+  ('pyreadline.lineeditor.lineobj',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\lineeditor\\lineobj.py',
+   'PYMODULE'),
+  ('pyreadline.lineeditor.history',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\lineeditor\\history.py',
+   'PYMODULE'),
+  ('pyreadline.modes.vi',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\modes\\vi.py',
+   'PYMODULE'),
+  ('pyreadline.modes',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\modes\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline.release',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\release.py',
+   'PYMODULE'),
+  ('pyreadline',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline.console.ironpython_console',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\console\\ironpython_console.py',
+   'PYMODULE'),
+  ('pyreadline.py3k_compat',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\py3k_compat.py',
+   'PYMODULE'),
+  ('pyreadline.unicode_helper',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\unicode_helper.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\queue.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\hmac.py',
+   'PYMODULE'),
+  ('smtplib',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\smtplib.py',
+   'PYMODULE'),
+  ('win32con',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('winerror',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\win32\\lib\\winerror.py',
+   'PYMODULE'),
+  ('win32evtlogutil',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\win32\\lib\\win32evtlogutil.py',
+   'PYMODULE'),
+  ('logging.handlers',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\logging\\handlers.py',
+   'PYMODULE'),
+  ('pyreadline.logger',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\logger.py',
+   'PYMODULE'),
+  ('pyreadline.keysyms.winconstants',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\keysyms\\winconstants.py',
+   'PYMODULE'),
+  ('pyreadline.keysyms.ironpython_keysyms',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\keysyms\\ironpython_keysyms.py',
+   'PYMODULE'),
+  ('pyreadline.keysyms.common',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\keysyms\\common.py',
+   'PYMODULE'),
+  ('pyreadline.keysyms.keysyms',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\keysyms\\keysyms.py',
+   'PYMODULE'),
+  ('pyreadline.keysyms',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\keysyms\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline.console.ansi',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\console\\ansi.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('pyreadline.console.event',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\console\\event.py',
+   'PYMODULE'),
+  ('pyreadline.console.console',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\console\\console.py',
+   'PYMODULE'),
+  ('pyreadline.console',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\pyreadline\\console\\__init__.py',
+   'PYMODULE'),
+  ('readline',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\readline.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\shlex.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\runpy.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\platform.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\tty.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\ssl.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\optparse.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\uu.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\calendar.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\bisect.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\random.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\lzma.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\gzip.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\shutil.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\socket.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\pdb.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\string.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\doctest.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\argparse.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\pickle.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\base64.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\_compression.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\bz2.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\stat.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\signal.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\threading.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\selectors.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\gettext.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\getopt.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\quopri.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\pprint.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('coloredlogs',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\coloredlogs\\__init__.py',
+   'PYMODULE'),
+  ('colorama',
+   'C:\\Users\\John '
+   'Trites\\AppData\\Roaming\\Python\\Python37\\site-packages\\colorama\\__init__.py',
+   'PYMODULE'),
+  ('colorama.ansitowin32',
+   'C:\\Users\\John '
+   'Trites\\AppData\\Roaming\\Python\\Python37\\site-packages\\colorama\\ansitowin32.py',
+   'PYMODULE'),
+  ('colorama.winterm',
+   'C:\\Users\\John '
+   'Trites\\AppData\\Roaming\\Python\\Python37\\site-packages\\colorama\\winterm.py',
+   'PYMODULE'),
+  ('colorama.ansi',
+   'C:\\Users\\John '
+   'Trites\\AppData\\Roaming\\Python\\Python37\\site-packages\\colorama\\ansi.py',
+   'PYMODULE'),
+  ('colorama.initialise',
+   'C:\\Users\\John '
+   'Trites\\AppData\\Roaming\\Python\\Python37\\site-packages\\colorama\\initialise.py',
+   'PYMODULE'),
+  ('colorama.win32',
+   'C:\\Users\\John '
+   'Trites\\AppData\\Roaming\\Python\\Python37\\site-packages\\colorama\\win32.py',
+   'PYMODULE'),
+  ('coloredlogs.syslog',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\coloredlogs\\syslog.py',
+   'PYMODULE'),
+  ('humanfriendly.text',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\humanfriendly\\text.py',
+   'PYMODULE'),
+  ('humanfriendly.terminal',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\humanfriendly\\terminal.py',
+   'PYMODULE'),
+  ('humanfriendly.usage',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\humanfriendly\\usage.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\csv.py',
+   'PYMODULE'),
+  ('humanfriendly.compat',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\humanfriendly\\compat.py',
+   'PYMODULE'),
+  ('html.parser',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\html\\parser.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\_markupbase.py',
+   'PYMODULE'),
+  ('humanfriendly',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\humanfriendly\\__init__.py',
+   'PYMODULE'),
+  ('humanfriendly.prompts',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\humanfriendly\\prompts.py',
+   'PYMODULE'),
+  ('humanfriendly.tables',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\humanfriendly\\tables.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('PyQt5',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\__init__.py',
+   'PYMODULE'),
+  ('WinLinkMon_Docs',
+   'C:\\Users\\John Trites\\Desktop\\WinLinkMon_1.0\\WinLinkMon_Docs.py',
+   'PYMODULE'),
+  ('WinLinkMon_About',
+   'C:\\Users\\John Trites\\Desktop\\WinLinkMon_1.0\\WinLinkMon_About.py',
+   'PYMODULE'),
+  ('WinLinkMon_GUI_12_12_19',
+   'C:\\Users\\John '
+   'Trites\\Desktop\\WinLinkMon_1.0\\WinLinkMon_GUI_12_12_19.py',
+   'PYMODULE'),
+  ('icons_rc',
+   'C:\\Users\\John Trites\\Desktop\\WinLinkMon_1.0\\icons_rc.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\struct.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\john '
+   'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\os.py',
+   'PYMODULE')])
