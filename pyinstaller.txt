@@ -1,66 +1,66 @@
 pyinstaller --onedir --onefile --name=WinLinkMon "C:\Users\John Trites\Documents\Python Projects\WinLinkMon_1.1\WinLinkMon_EXEC_12-13-19.py"
 
-201 INFO: PyInstaller: 3.5
-202 INFO: Python: 3.7.4
-203 INFO: Platform: Windows-10-10.0.18362-SP0
-205 INFO: wrote C:\Users\John Trites\Documents\Python Projects\WinLinkMon_1.1\WinLinkMon.spec
-208 INFO: UPX is not available.
-223 INFO: Extending PYTHONPATH with paths
+183 INFO: PyInstaller: 3.5
+183 INFO: Python: 3.7.4
+183 INFO: Platform: Windows-10-10.0.18362-SP0
+186 INFO: wrote C:\Users\John Trites\Documents\Python Projects\WinLinkMon_1.1\WinLinkMon.spec
+189 INFO: UPX is not available.
+193 INFO: Extending PYTHONPATH with paths
 ['C:\\Users\\John Trites\\Documents\\Python Projects\\WinLinkMon_1.1',
  'C:\\Users\\John Trites\\Documents\\Python Projects\\WinLinkMon_1.1']
-223 INFO: checking Analysis
-224 INFO: Building Analysis because Analysis-00.toc is non existent
-224 INFO: Initializing module dependency graph...
-231 INFO: Initializing module graph hooks...
-248 INFO: Analyzing base_library.zip ...
-13705 INFO: running Analysis Analysis-00.toc
-13715 INFO: Adding Microsoft.Windows.Common-Controls to dependent assemblies of final executable
+193 INFO: checking Analysis
+202 INFO: Building because C:\Users\John Trites\Documents\Python Projects\WinLinkMon_1.1\WinLinkMon_EXEC_12-13-19.py changed
+202 INFO: Initializing module dependency graph...
+207 INFO: Initializing module graph hooks...
+213 INFO: Analyzing base_library.zip ...
+8599 INFO: running Analysis Analysis-00.toc
+8607 INFO: Adding Microsoft.Windows.Common-Controls to dependent assemblies of final executable
   required by c:\users\john trites\appdata\local\programs\python\python37-32\python.exe
-16831 INFO: Caching module hooks...
-16896 INFO: Analyzing C:\Users\John Trites\Documents\Python Projects\WinLinkMon_1.1\WinLinkMon_EXEC_12-13-19.py
-18906 INFO: Loading module hooks...
-18906 INFO: Loading module hook "hook-encodings.py"...
-19069 INFO: Loading module hook "hook-pydoc.py"...
-19073 INFO: Loading module hook "hook-PyQt5.py"...
-19401 INFO: Loading module hook "hook-PyQt5.QtCore.py"...
-20921 INFO: Loading module hook "hook-PyQt5.QtGui.py"...
-22581 INFO: Loading module hook "hook-PyQt5.QtPrintSupport.py"...
-25702 INFO: Loading module hook "hook-PyQt5.QtWidgets.py"...
-28773 INFO: Loading module hook "hook-xml.py"...
-29428 INFO: Looking for ctypes DLLs
-29509 INFO: Analyzing run-time hooks ...
-29517 INFO: Including run-time hook 'pyi_rth_multiprocessing.py'
-29535 INFO: Including run-time hook 'pyi_rth_pyqt5.py'
-29558 INFO: Looking for dynamic libraries
-60636 INFO: Looking for eggs
-60637 INFO: Using Python library c:\users\john trites\appdata\local\programs\python\python37-32\python37.dll
-60638 INFO: Found binding redirects:
+11220 INFO: Caching module hooks...
+11236 INFO: Analyzing C:\Users\John Trites\Documents\Python Projects\WinLinkMon_1.1\WinLinkMon_EXEC_12-13-19.py
+12808 INFO: Loading module hooks...
+12809 INFO: Loading module hook "hook-encodings.py"...
+12971 INFO: Loading module hook "hook-pydoc.py"...
+12973 INFO: Loading module hook "hook-PyQt5.py"...
+13284 INFO: Loading module hook "hook-PyQt5.QtCore.py"...
+14837 INFO: Loading module hook "hook-PyQt5.QtGui.py"...
+16992 INFO: Loading module hook "hook-PyQt5.QtPrintSupport.py"...
+20874 INFO: Loading module hook "hook-PyQt5.QtWidgets.py"...
+23223 INFO: Loading module hook "hook-xml.py"...
+23815 INFO: Looking for ctypes DLLs
+23895 INFO: Analyzing run-time hooks ...
+23903 INFO: Including run-time hook 'pyi_rth_multiprocessing.py'
+23919 INFO: Including run-time hook 'pyi_rth_pyqt5.py'
+23941 INFO: Looking for dynamic libraries
+53062 INFO: Looking for eggs
+53063 INFO: Using Python library c:\users\john trites\appdata\local\programs\python\python37-32\python37.dll
+53064 INFO: Found binding redirects:
 []
-60655 INFO: Warnings written to C:\Users\John Trites\Documents\Python Projects\WinLinkMon_1.1\build\WinLinkMon\warn-WinLinkMon.txt
-60798 INFO: Graph cross-reference written to C:\Users\John Trites\Documents\Python Projects\WinLinkMon_1.1\build\WinLinkMon\xref-WinLinkMon.html
-60838 INFO: checking PYZ
-60839 INFO: Building PYZ because PYZ-00.toc is non existent
-60841 INFO: Building PYZ (ZlibArchive) C:\Users\John Trites\Documents\Python Projects\WinLinkMon_1.1\build\WinLinkMon\PYZ-00.pyz
-62570 INFO: Building PYZ (ZlibArchive) C:\Users\John Trites\Documents\Python Projects\WinLinkMon_1.1\build\WinLinkMon\PYZ-00.pyz completed successfully.
-62610 INFO: checking PKG
-62611 INFO: Building PKG because PKG-00.toc is non existent
-62613 INFO: Building PKG (CArchive) PKG-00.pkg
-63092 WARNING: One binary added with two internal names.
-63093 WARNING: ('libGLESv2.dll',
+53077 INFO: Warnings written to C:\Users\John Trites\Documents\Python Projects\WinLinkMon_1.1\build\WinLinkMon\warn-WinLinkMon.txt
+53224 INFO: Graph cross-reference written to C:\Users\John Trites\Documents\Python Projects\WinLinkMon_1.1\build\WinLinkMon\xref-WinLinkMon.html
+53267 INFO: checking PYZ
+53272 INFO: Building because toc changed
+53273 INFO: Building PYZ (ZlibArchive) C:\Users\John Trites\Documents\Python Projects\WinLinkMon_1.1\build\WinLinkMon\PYZ-00.pyz
+55534 INFO: Building PYZ (ZlibArchive) C:\Users\John Trites\Documents\Python Projects\WinLinkMon_1.1\build\WinLinkMon\PYZ-00.pyz completed successfully.
+55577 INFO: checking PKG
+55584 INFO: Building because toc changed
+55585 INFO: Building PKG (CArchive) PKG-00.pkg
+56017 WARNING: One binary added with two internal names.
+56018 WARNING: ('libGLESv2.dll',
  'C:\\users\\john '
  'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\libGLESv2.dll',
  'BINARY')
-63094 WARNING: was placed previously at
-63096 WARNING: ('PyQt5\\Qt\\bin\\libGLESv2.dll',
+56019 WARNING: was placed previously at
+56021 WARNING: ('PyQt5\\Qt\\bin\\libGLESv2.dll',
  'C:\\users\\john '
  'trites\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyQt5\\Qt\\bin\\libGLESv2.dll',
  'BINARY')
-78852 INFO: Building PKG (CArchive) PKG-00.pkg completed successfully.
-78866 INFO: Bootloader c:\users\john trites\appdata\local\programs\python\python37-32\lib\site-packages\PyInstaller\bootloader\Windows-32bit\run.exe
-78866 INFO: checking EXE
-78867 INFO: Building EXE because EXE-00.toc is non existent
-78868 INFO: Building EXE from EXE-00.toc
-78870 INFO: Appending archive to EXE C:\Users\John Trites\Documents\Python Projects\WinLinkMon_1.1\dist\WinLinkMon.exe
-79039 INFO: Building EXE from EXE-00.toc completed successfully.
+70360 INFO: Building PKG (CArchive) PKG-00.pkg completed successfully.
+70378 INFO: Bootloader c:\users\john trites\appdata\local\programs\python\python37-32\lib\site-packages\PyInstaller\bootloader\Windows-32bit\run.exe
+70378 INFO: checking EXE
+70402 INFO: Building because toc changed
+70402 INFO: Building EXE from EXE-00.toc
+70406 INFO: Appending archive to EXE C:\Users\John Trites\Documents\Python Projects\WinLinkMon_1.1\dist\WinLinkMon.exe
+70474 INFO: Building EXE from EXE-00.toc completed successfully.
 
 C:\Users\John Trites\Documents\Python Projects\WinLinkMon_1.1>
