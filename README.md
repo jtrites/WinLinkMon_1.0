@@ -12,7 +12,7 @@ The WinLink Monitoring Program is a Python 3.7.4 application using PyQt5 library
 Author:    John Trites
 Date:    Dec. 12th, 2019
 
-UPDATED DEC. 16TH, 2019 BY AUTHOR TO INSTRUCT USERS TO FIND THE (6) PMON Capture files in the PMON Capture sub-folder (not the dist foider as was described in my 16-239 RESPONSE TO THE FEDERAL COMMUNICATIONS COMMISSION (FCC).
+UPDATED DEC. 16TH, 2019 BY AUTHOR TO INSTRUCT USERS TO FIND THE (6) PMON Capture files in the "PMON Capture Files" root sub-folder (not the dist foider as was described in my 16-239 RESPONSE TO THE FEDERAL COMMUNICATIONS COMMISSION (FCC).
 
 The author of this amateur radio WinLink Monitoring Program created for the sole purpose of demonstrating that a non-professional programmer with no prior knowledge or understanding of the details of the WinLink Messaging format, contents, compression and decompression algorithms, prior to August of 2019, successfully wrote a Python 3 program that correctly decompresses six(6) PMON captured files provided by a 3rd party from a PACTOR modem. 
 
